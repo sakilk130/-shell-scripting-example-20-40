@@ -1,0 +1,11 @@
+1.pwd
+2.clear
+3.date
+4.mkdir d
+  cd d
+  mkdir d1
+5.cd d1
+6. touch file1 file2
+7.chmod 644 file1 file2
+8.ls
+
